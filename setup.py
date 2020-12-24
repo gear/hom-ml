@@ -40,4 +40,7 @@ setup(
         'graph homomorphism', 'graph neural networks'
     ],
     python_requires='>=3.7',
+    install_requires=[
+        'networkx>=2.5'
+    ],
 )
