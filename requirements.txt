@@ -1,5 +1,5 @@
--e git+git@github.com:gear/hom-ml.git@2d0ef57d2be99246e413972a7406aea69caa40a4#egg=hompy
 networkx==2.5
 numpy==1.19.4
 pytest==6.2.1
 scipy==1.5.4
+-e .
